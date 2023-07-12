@@ -3,7 +3,7 @@ package todo.younah.todoHomework.todo.controller;
 import com.sun.istack.NotNull;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-import todo.younah.todoHomework.dto.TodoDto;
+import todo.younah.todoHomework.todo.dto.TodoDto;
 import todo.younah.todoHomework.todo.response.TodoResponse;
 import todo.younah.todoHomework.todo.service.TodoService;
 

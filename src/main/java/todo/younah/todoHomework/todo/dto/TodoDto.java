@@ -1,4 +1,4 @@
-package todo.younah.todoHomework.dto;
+package todo.younah.todoHomework.todo.dto;
 
 import lombok.Getter;
 
